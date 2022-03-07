@@ -10,3 +10,6 @@ For example, if you constantly wait in the center of the screen, the eggs will t
 Also, if you score really well in one round, the next one will be harder and vice versa.
 
 The current high score is 52... Try to beat it!
+
+LINK to video explaining the function of the game with visual representation: https://collegial.correspondances.sainteanne.ca/sciences-pures-et-appliquees/andre-kasper-kolstad/
+
